@@ -46,7 +46,7 @@ h1{
 .profile-pic{
     border-radius: 50%;
     margin-top: 5rem;
-    width: 50%;
+    width: 30%;
 }
 .description{
     background-color: #4F959D;
@@ -114,6 +114,7 @@ h3.sec-font.proj{
     
 }
 .footer-link{
+    font-size: 1.5rem;
     margin: 20px;
     color: inherit;
     text-decoration: none;
