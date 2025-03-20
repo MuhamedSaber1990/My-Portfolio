@@ -1,0 +1,123 @@
+* {
+    box-sizing: border-box;
+  }
+body{
+    margin: 0;
+
+}
+.main-sec{
+    background-color: #78B7D0;
+    width: 100%;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    width: 50%;
+    margin-left: 25%;
+    overflow: hidden;
+
+}
+h1{
+    color: #205781;
+    font-family: "Sacramento", "cursive";
+    font-size: 5rem;
+}
+.specialty{
+    font-size: 2.5rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: normal;    
+
+}
+.cloud-size{
+    width: 25%;
+}
+.left{
+    align-self: flex-start;
+}
+.right{
+    align-self: flex-end;
+
+}
+.pyramid-size{
+    width: 100%;
+}
+.profile-pic{
+    border-radius: 50%;
+    margin-top: 5rem;
+    width: 50%;
+}
+.description{
+    background-color: #4F959D;
+}
+.sec-section{
+    color: #4C4C4C;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    margin: 40px;
+    font-weight: 600;
+
+
+}
+.p-color{
+    color: #4C4C4C;
+    font-family: "Merriweather Sans", sans-serif;
+    width: 50%;
+    text-align: center;
+}
+.resume-link{
+    color: inherit;
+    text-decoration: none;
+}
+hr{
+    border: #4C4C4C dashed 1px;
+    width: 25%;
+    margin-bottom: 0;
+}
+.my-work{
+    background-color: #98D2C0;
+}
+.projects{
+    color: #373737;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    margin: 80px;
+    font-weight: 600;
+}
+.project-font{
+    font-family: "Montserrat", sans-serif;    
+}
+.sec-font{
+    font-family: "Merriweather Sans", sans-serif;
+    margin-bottom: 40px;
+}
+.proj {
+    text-align: center;
+    margin-bottom: 40px;
+
+}
+h3.sec-font.proj{
+    font-weight: 400;
+}
+.project-img{
+    width: 100%;;
+}
+
+.footer-section{
+    background-color: #F6F8D5;
+}
+
+.footer-sec{
+    margin-top: 5rem;
+    margin-bottom:20px ;
+    
+}
+.footer-link{
+    margin: 20px;
+    color: inherit;
+    text-decoration: none;
+}
+footer{
+    margin-bottom: 40px;
+}
